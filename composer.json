@@ -1,5 +1,5 @@
 {
-	"name": "GuusDeGraeve/Cryptr",
+	"name": "guusdegraeve/cryptr",
 	"description": "A very simple library package for encryping/decrypting data using private/public key pairs in PHP.",
 	"license": "MIT",
 	"authors": [
