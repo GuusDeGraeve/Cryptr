@@ -1,0 +1,24 @@
+{
+	"name": "GuusDeGraeve/Cryptr",
+	"description": "A very simple library package for encryping/decrypting data using private/public key pairs in PHP.",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Guus De Graeve",
+			"email": "guus@muchmore.be"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"GuusDeGraeve\\Cryptr": "src"
+		}
+	},
+	"autoload": {
+		"psr-0": {
+			"GuusDeGraeve\\Cryptr\\Tests": "tests"
+		}
+	},
+	"require-dev": {
+		"phpunit/phpunit": "5.5.*"
+	}
+}
